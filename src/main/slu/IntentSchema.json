@@ -1,0 +1,28 @@
+{
+  "intents": [
+    {
+      "intent": "PanderingIntent",
+      "slots": [{
+        "name": "Name",
+        "type": "LITERAL"
+      }]
+    },
+    {
+      "intent": "YouSuckIntent",
+      "slots": [{
+        "name": "Name",
+        "type": "LITERAL"
+      }]
+    },
+    {
+      "intent": "FindFoodIntent",
+      "slots": [{
+        "name": "Meal",
+        "type": "LITERAL"
+      },{
+        "name": "SortBy",
+        "type": "LITERAL"
+      }]
+    }
+  ]
+}

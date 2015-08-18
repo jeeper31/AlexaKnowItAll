@@ -1,0 +1,49 @@
+PanderingIntent say hello to {Alex|Name}
+PanderingIntent say hello to {Rochelle|Name}
+PanderingIntent say hello to {Abby|Name}
+PanderingIntent say hello to {Mike|Name}
+
+PanderingIntent hello {Alex|Name}
+PanderingIntent say hi to {Alex|Name}
+PanderingIntent hi {Alex|Name}
+
+YouSuckIntent does {Alex|Name} suck
+YouSuckIntent tell me if {Alex|Name} sucks
+YouSuckIntent tell me about {Alex|Name}
+YouSuckIntent tell me about {Nathan|Name}
+YouSuckIntent tell me about {Rochelle|Name}
+YouSuckIntent tell me about {Chica|Name}
+YouSuckIntent tell me about {Jill|Name}
+YouSuckIntent about {Alex|Name}
+YouSuckIntent about {Nathan|Name}
+YouSuckIntent about {Wes|Name}
+YouSuckIntent about {Rochelle|Name}
+YouSuckIntent about {Chica|Name}
+YouSuckIntent about {Jill|Name}
+
+YouSuckIntent how you feel about {Alex|Name}
+YouSuckIntent how you feel about {Rochelle|Name}
+YouSuckIntent how you feel about {Wes|Name}
+YouSuckIntent how you feel about {Jill|Name}
+YouSuckIntent how you feel about {Steve|Name}
+YouSuckIntent how you feel about {Nathan|Name}
+
+FindFoodIntent what's for {breakfast|Meal}
+FindFoodIntent what's for {breakfast|Meal} sort by {distance|SortBy}
+FindFoodIntent what's for {breakfast|Meal} sort by {rating|SortBy}
+
+FindFoodIntent what's for {lunch|Meal}
+FindFoodIntent what's for {lunch|Meal} sort by {distance|SortBy}
+FindFoodIntent what's for {lunch|Meal} sort by {rating|SortBy}
+
+FindFoodIntent what's for {dinner|Meal}
+FindFoodIntent what's for {dinner|Meal} sort by {distance|SortBy}
+FindFoodIntent what's for {dinner|Meal} sort by {rating|SortBy}
+
+FindFoodIntent find me some {mexican|Meal} food
+FindFoodIntent find me some {italian|Meal} food
+FindFoodIntent find me some {asian|Meal} food
+FindFoodIntent find me some {chinese|Meal} food
+FindFoodIntent find me some {american|Meal} food
+
+FindFoodIntent find me some {bars|Meal}
